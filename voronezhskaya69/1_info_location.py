@@ -75,7 +75,8 @@ with col2:
     st.components.v1.html("""
         <iframe 
             src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d4000.402274430029!2d30.342280122318808!3d59.91220917275017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x4696304c97ab5355%3A0x66d8c4333f3a046c!2z0J7QsdCy0L7QtNC90YvQuSDQutCw0L3QsNC7LCDQodCw0L3QutGCLdCf0LXRgtC10YDQsdGD0YDQsw!3m2!1d59.91303!2d30.351233899999997!4m5!1s0x4696304ec741c531%3A0xf41970b226624491!2z0JLQvtGA0L7QvdC10LbRgdC60LDRjyDRg9C70LjRhtCwLCA2OSwg0KHQsNC90LrRgi3Qn9C10YLQtdGA0LHRg9GA0LM!3m2!1d59.909928199999996!2d30.3429394!5e0!3m2!1sru!2sru!4v1751398129302!5m2!1sru!2sru" 
-            width="600" height="450" 
+            width="600" 
+            height="430" 
             style="border:0; border-radius: 10px;"
             allowfullscreen="" 
             loading="lazy" 
