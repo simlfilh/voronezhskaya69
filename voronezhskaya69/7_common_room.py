@@ -86,6 +86,7 @@ with col5:
             <p>Постельное белье меняется 1 раз в неделю бесплатно: отдали грязное - тут же получили чистое.</p>
         </div>
                 """, unsafe_allow_html=True)
+st.divider()
 
 st.markdown("""
     <div class="colored-container">
