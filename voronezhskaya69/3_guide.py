@@ -75,7 +75,7 @@ with col2:
         <div class="colored-container">
                 <div class="highlight-green">
                     <div class="text-indent-content">
-                        <h3> Заведующий студенческим общежитием | Паспортист</h3> 
+                        <h3> Заведующий общежитием | Паспортист</h3> 
                     </div>
                 </div>
             <br>
@@ -113,7 +113,7 @@ with col4:
         <div class="colored-container">
                 <div class="highlight-green">
                     <div class="text-indent-content">
-                        <h3>Заместитель заведующего студенческим общежитием</h3> 
+                        <h3>Заместитель заведующего общежитием</h3> 
                     </div>
                 </div>
             <br>
