@@ -210,7 +210,7 @@ with col14:
 # 6 ЭТАЖ
 col15, col16 = st.columns([1, 3])
 with col15:
-    st.image("администрация_в69/нн.jpg", width=250)
+    st.image("администрация_в69/староста_6_в69.jpg", width=250)
 with col16:
     st.markdown("""
         <div class="colored-container">
@@ -234,7 +234,7 @@ with col16:
 # 7 ЭТАЖ
 col17, col18 = st.columns([1, 3])
 with col17:
-    st.image("администрация_в69/нн.jpg", width=250)
+    st.image("администрация_в69/староста_7_в69.jpg", width=250)
 with col18:
     st.markdown("""
         <div class="colored-container">
@@ -334,7 +334,7 @@ with col24:
 # 11 ЭТАЖ
 col25, col26 = st.columns([1, 3])
 with col25:
-    st.image("администрация_в69/нн.jpg", width=250)
+    st.image("администрация_в69/староста_11_в69.jpg", width=250)
 with col26:
     st.markdown("""
         <div class="colored-container">
@@ -409,7 +409,7 @@ with col28:
 # 14 ЭТАЖ
 col27, col28 = st.columns([1, 3])
 with col27:
-    st.image("администрация_в69/нн.jpg", width=250)
+    st.image("администрация_в69/староста_14_в69..jpg", width=250)
 with col28:
     st.markdown("""
         <div class="colored-container">
