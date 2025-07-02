@@ -62,7 +62,7 @@ with col2:
                 """, unsafe_allow_html=True)
 st.divider()
 
-col4, col5 = st.columns([2, 1])
+col4, col5 = st.columns([1, 2])
 with col4:
     st.image("рекреации_в69/работник_бельевой_в69.jpg")
 with col5:
