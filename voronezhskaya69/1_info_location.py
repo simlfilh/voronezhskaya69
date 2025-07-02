@@ -57,7 +57,7 @@ with col1:
             }
         </style>
         <div class="colored-container">
-            <h3 class="highlight-blue">Адрес: Санкт-Петербург, Воронежская ул., д. 69</h3>
+            <h3>Адрес: Санкт-Петербург, Воронежская ул., д. 69</h3>
                 <div class="text-indent-content">
                     <p class="highlight-blue">Наиболее удобные маршруты:</p>
                 </div>
