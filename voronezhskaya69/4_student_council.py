@@ -119,13 +119,13 @@ with col8:
                         <h3>Староста 2 этажа</h3> 
                     </div>
                 </div>
+            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://vk.com/sharknn7" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;"><b>Пустоселова Алина Александровна</b></p>
                 </div>
-            <br>
             <p>📞 <a href="tel:+79614842341">+79614842341</a></p>
             <br>
             <br>
@@ -144,13 +144,13 @@ with col10:
                         <h3>Староста 3 этажа</h3> 
                     </div>
                 </div>
+            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://vk.com/the.state_of_mind" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;"><b>Ахмеров Рамиз Чингизович</b></p>
                 </div>
-            <br>
             <p>📞 <a href="tel:+79270181587">+79270181587</a></p>
             <br>
             <br>
@@ -169,13 +169,13 @@ with col12:
                         <h3>Староста 4 этажа</h3> 
                     </div>
                 </div>
+            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://vk.com/soul1alenka" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;"><b>Колесник Алёна Александровна</b></p>
                 </div>
-            <br>  
             <p>📞 <a href="tel:+79024418797">+79024418797</a></p>
             <br>
             <br>
@@ -194,13 +194,13 @@ with col14:
                         <h3>Староста 5 этажа</h3> 
                     </div>
                 </div>
+            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://vk.com/d.vycheslavovich" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;"><b>Юрку Данил Вячеславович</b></p>
                 </div>
-            <br>
             <p>📞 <a href="tel:+79140449813">+79140449813</a></p>
             <br>
             <br>
@@ -219,12 +219,12 @@ with col16:
                         <h3>Староста 6 этажа</h3> 
                     </div>
                 </div>
+            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://vk.com/a.m.i_mm" target="_blank" style="margin-left: 5px; font-size: 25px;">                        <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;"><b>Мурашкинцев Артем</b></p>
                 </div>
-            <br>
             <p>📞 <a href="tel:+79313949429">+79313949429</a></p>
             <br>
             <br>
@@ -243,13 +243,13 @@ with col18:
                         <h3>Староста 7 этажа</h3> 
                     </div>
                 </div>
+            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://vk.com/pascalova" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;"><b>Паскалова Мария Владимировна</b></p>
                 </div>
-            <br>
             <p>📞 <a href="tel:+79313736473">+79313736473</a></p>
             <br>
             <br>
@@ -268,13 +268,13 @@ with col20:
                         <h3>Староста 8 этажа</h3> 
                     </div>
                 </div>
+            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://vk.com/id301176965" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;"><b>Садовников Иван Алексеевич</b></p>
                 </div>
-            <br>
             <p>📞 <a href="tel:+79187200649">+79187200649</a></p>
             <br>
             <br>
@@ -293,13 +293,13 @@ with col22:
                         <h3>Староста 9 этажа</h3> 
                     </div>
                 </div>
+            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://vk.com/vikysha16" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;"><b>Булаенко Виктория Викторовна</b></p>
                 </div>
-            <br>
             <p>📞 <a href="tel:+79841480460">+79841480460</a></p>
             <br>
             <br>
@@ -318,13 +318,13 @@ with col24:
                         <h3>Староста 10 этажа</h3> 
                     </div>
                 </div>
+            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://vk.com/bbbbbqqqq" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;"><b>Катаев Роман Иванович</b></p>
                 </div>
-            <br>
             <p>📞 <a href="tel:+79824603837">+79824603837</a></p>
             <br>
             <br>
@@ -343,13 +343,13 @@ with col26:
                         <h3>Староста 11 этажа</h3> 
                     </div>
                 </div>
+            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://vk.com/trusniibravler228" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;"><b>Пержан Даниил Сергеевич</b></p>
                 </div>
-            <br>  
             <p>📞 <a href="tel:+79112760582">+79112760582</a></p>
             <br>
             <br>
@@ -368,13 +368,13 @@ with col28:
                         <h3>Староста 12 этажа</h3> 
                     </div>
                 </div>
+            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://vk.com/imsssssssss" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;"><b>Степанова Мария Михайловна</b></p>
                 </div>
-            <br>  
             <p>📞 <a href="tel:+79621113290">+79621113290</a></p>
             <br>
             <br>
@@ -393,13 +393,13 @@ with col28:
                         <h3>Староста 13 этажа</h3> 
                     </div>
                 </div>
+            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://vk.com/upwaix" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;"><b>Ларионов Данила Сергеевич</b></p>
                 </div>
-            <br>  
             <p>📞 <a href="tel:+79633388235">+79633388235</a></p>
             <br>
             <br>
@@ -418,13 +418,13 @@ with col28:
                         <h3>Староста 14 этажа</h3> 
                     </div>
                 </div>
+            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://vk.com/abelyshevv" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;"><b>Белышев Александр</b></p>
                 </div>
-            <br>  
             <p>📞 <a href="tel:+79133787709">+79133787709</a></p>
             <br>
             <br>
@@ -443,13 +443,13 @@ with col28:
                         <h3>Староста 15 этажа</h3> 
                     </div>
                 </div>
+            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://vk.com/id422491561" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;"><b>Гриценко Илья Павлович</b></p>
                 </div>
-            <br>  
             <p>📞 <a href="tel:+79531000737">+79531000737</a></p>
             <br>
             <br>
@@ -468,13 +468,13 @@ with col28:
                         <h3>Староста 16 этажа</h3> 
                     </div>
                 </div>
+            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://vk.ru/ariat" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;"><b>Атоян Арианна Самвеловна</b></p>
                 </div>
-            <br>  
             <p>📞 <a href="tel:+79881807020">+79881807020</a></p>
             <br>
             <br>
