@@ -409,7 +409,7 @@ with col28:
 # 14 ЭТАЖ
 col27, col28 = st.columns([1, 3])
 with col27:
-    st.image("администрация_в69/староста_14_в69..jpg", width=250)
+    st.image("администрация_в69/староста_14_в69.jpg", width=250)
 with col28:
     st.markdown("""
         <div class="colored-container">
