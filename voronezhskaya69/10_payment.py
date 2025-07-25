@@ -115,12 +115,27 @@ st.divider()
 st.markdown("**Контакты для связи:**")
 st.write("Заведующий общежитием: Бровкина Наталья Анатольевна 👩🏼‍💼")
 st.markdown("""
-    <p>📞 <a href="tel:+78124589730,4938">(812) 458-97-30 доб. 4938</a></p>
-            """, unsafe_allow_html=True)
+    <style>
+        .custom-links a {
+            color: white !important;
+            text-decoration: none; 
+        }
+        .custom-links a:hover {
+            color: #ccc !important;  
+            text-decoration: underline; 
+        }
+    </style>
+    <div class="custom-links">
+        <p>📞 <a href="tel:+78124589730,4938">(812) 458-97-30 доб. 4938</a></p>
+    </div>
+""", unsafe_allow_html=True)
+
 st.write("Заместитель заведующего общежитием: Ерофеева Ангелина Олеговна 👩🏼‍💼")
 st.markdown("""
-    <p>📞 <a href="tel:+78124589730,4947">(812) 458-97-30 доб. 4947</a></p>
-            """, unsafe_allow_html=True)
+    <div class="custom-links">
+        <p>📞 <a href="tel:+78124589730,4947">(812) 458-97-30 доб. 4947</a></p>
+    </div>
+""", unsafe_allow_html=True)
 st.divider()
 
 st.markdown("🆘 Свяжитесь со студенческим советом через соответствующий раздел")
