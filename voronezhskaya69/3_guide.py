@@ -152,7 +152,7 @@ with col6:
                     </div>
                 </div>
             <br>
-            <p><b>Пяткина Ольга Алексеевна<b></p>
+            <p><b>Цыбырна Ольга<b></p>
             <br>
         </div>
                 """, unsafe_allow_html=True)
