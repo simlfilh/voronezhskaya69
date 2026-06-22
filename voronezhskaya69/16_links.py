@@ -43,15 +43,29 @@ st.markdown("""
         }
     </style>
     <div class="colored-container">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-            <div style="display: flex; align-items: center; gap: 20px;">
-                <a href="https://vk.com/69vorona" target="_blank">
-                <i class="fab fa-vk fa-2x"></i></a>
-                <h3>Сообщество ВК: Воронежская 69</h3>
-            </div>
-    </div>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+                <div style="display: flex; align-items: center; gap: 20px;">
+                    <a href="https://t.me/obshchezhitiye_voronezhskaya_69" target="_blank">
+                    <i class="fab fa-telegram fa-2x"></i></a>
+                    <h3>Информационный чат общежития №4.</h3>
+                </div>
+        </div>
             """, unsafe_allow_html=True)
 st.divider()
+
+st.markdown("""
+        <div class="colored-container">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+                <div style="display: flex; align-items: center; gap: 20px;">
+                    <a href="https://max.ru/id7840483155_gos17" target="_blank">
+                        <i class="fas fa-comment-dots fa-2x" style="color: #00BFFF;"></i>
+                    </a>
+                    <h3>Канал «Общежития СПбГЭУ» в MAX.</h3>
+                </div>
+        </div>
+                """, unsafe_allow_html=True)
+st.divider()
+
 
 st.markdown("**Контакты для связи:**")
 st.write("Заведующий общежитием: Бровкина Наталья Анатольевна 👩🏼‍💼")
