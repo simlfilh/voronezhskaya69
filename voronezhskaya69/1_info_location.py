@@ -69,19 +69,28 @@ with col1:
 with col2:
     st.markdown("""
         <div class="colored-container">
-            <h3>Мы в Google Maps ⬇️</h3>
+            <h3>Мы в Яндекс Картах ⬇️</h3>
         </div>
                 """, unsafe_allow_html=True)
     st.components.v1.html("""
-        <iframe 
-            src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d4000.402274430029!2d30.342280122318808!3d59.91220917275017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x4696304c97ab5355%3A0x66d8c4333f3a046c!2z0J7QsdCy0L7QtNC90YvQuSDQutCw0L3QsNC7LCDQodCw0L3QutGCLdCf0LXRgtC10YDQsdGD0YDQsw!3m2!1d59.91303!2d30.351233899999997!4m5!1s0x4696304ec741c531%3A0xf41970b226624491!2z0JLQvtGA0L7QvdC10LbRgdC60LDRjyDRg9C70LjRhtCwLCA2OSwg0KHQsNC90LrRgi3Qn9C10YLQtdGA0LHRg9GA0LM!3m2!1d59.909928199999996!2d30.3429394!5e0!3m2!1sru!2sru!4v1751398129302!5m2!1sru!2sru" 
-            width="600" 
-            height="430" 
-            style="border:0; border-radius: 10px;"
-            allowfullscreen="" 
-            loading="lazy" 
-            referrerpolicy="no-referrer-when-downgrade">
-        </iframe>
+        <div style="position:relative;overflow:hidden;">
+            <a href="https://yandex.ru/maps/2/saint-petersburg/?utm_medium=mapframe&utm_source=maps" 
+                style="color:#eee;font-size:12px;position:absolute;top:0px;">
+                Санкт‑Петербург
+            </a>
+            <a href="https://yandex.ru/maps/2/saint-petersburg/?ll=30.335743%2C59.920187&mode=routes&rtext=59.927125%2C30.320547~59.909938%2C30.343024&rtt=mt&ruri=ymapsbm1%3A%2F%2Ftransit%2Fstop%3Fid%3Dstation__9805907~ymapsbm1%3A%2F%2Forg%3Foid%3D1071665634&utm_medium=mapframe&utm_source=maps&z=15.06" 
+                style="color:#eee;font-size:12px;position:absolute;top:14px;">
+                Яндекс Карты
+            </a>
+            <iframe 
+                src="https://yandex.ru/map-widget/v1/?ll=30.335743%2C59.920187&mode=routes&rtext=59.927125%2C30.320547~59.909938%2C30.343024&rtt=mt&ruri=ymapsbm1%3A%2F%2Ftransit%2Fstop%3Fid%3Dstation__9805907~ymapsbm1%3A%2F%2Forg%3Foid%3D1071665634&z=15.06" 
+                width="100%" 
+                height="400" 
+                frameborder="1" 
+                allowfullscreen="true" 
+                style="position:relative;border-radius: 10px;border: none;">
+            </iframe>
+        </div>
                     """, height=440)
 st.divider()
 
