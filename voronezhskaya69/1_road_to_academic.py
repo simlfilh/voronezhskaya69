@@ -108,11 +108,11 @@ with col1:
                 <h4>🗺️ Маршрут от ул. Воронежская, д. 69</h4>
                 <div class="route-detail">
                     <span>📏 Расстояние:</span>
-                    <span><strong>~3.5 км</strong></span>
+                    <span><strong>~4 км</strong></span>
                 </div>
                 <div class="route-detail">
                     <span>⏱️ Время в пути:</span>
-                    <span><strong>~20-25 мин</strong></span>
+                    <span><strong>~40-45 мин</strong></span>
                 </div>
                 <div class="route-detail">
                     <span>🚌 Способ:</span>
@@ -167,11 +167,11 @@ with col3:
                 <h4>🗺️ Маршрут от ул. Воронежская, д. 69</h4>
                 <div class="route-detail">
                     <span>📏 Расстояние:</span>
-                    <span><strong>~3 км</strong></span>
+                    <span><strong>~4 км</strong></span>
                 </div>
                 <div class="route-detail">
                     <span>⏱️ Время в пути:</span>
-                    <span><strong>~20-25 мин</strong></span>
+                    <span><strong>~35-40 мин</strong></span>
                 </div>
                 <div class="route-detail">
                     <span>🚌 Способ:</span>
@@ -225,7 +225,7 @@ with col5:
                 <h4>🗺️ Маршрут от ул. Воронежская, д. 69</h4>
                 <div class="route-detail">
                     <span>📏 Расстояние:</span>
-                    <span><strong>~3.5 км</strong></span>
+                    <span><strong>~2.5 км</strong></span>
                 </div>
                 <div class="route-detail">
                     <span>⏱️ Время в пути:</span>
@@ -343,11 +343,11 @@ with col9:
                 <h4>🗺️ Маршрут от ул. Воронежская, д. 69</h4>
                 <div class="route-detail">
                     <span>📏 Расстояние:</span>
-                    <span><strong>~2.5 км</strong></span>
+                    <span><strong>~3 км</strong></span>
                 </div>
                 <div class="route-detail">
                     <span>⏱️ Время в пути:</span>
-                    <span><strong>~15-20 мин</strong></span>
+                    <span><strong>~25-30 мин</strong></span>
                 </div>
                 <div class="route-detail">
                     <span>🚌 Способ:</span>
