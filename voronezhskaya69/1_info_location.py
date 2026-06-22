@@ -78,12 +78,12 @@ with col2:
                 style="color:#eee;font-size:12px;position:absolute;top:0px;">
                 Санкт‑Петербург
             </a>
-            <a href="https://yandex.ru/maps/2/saint-petersburg/?ll=30.335743%2C59.920187&mode=routes&rtext=59.927125%2C30.320547~59.909938%2C30.343024&rtt=mt&ruri=ymapsbm1%3A%2F%2Ftransit%2Fstop%3Fid%3Dstation__9805907~ymapsbm1%3A%2F%2Forg%3Foid%3D1071665634&utm_medium=mapframe&utm_source=maps&z=15.06" 
+            <a href="https://yandex.ru/maps/2/saint-petersburg/?indoorLevel=1&ll=30.347349%2C59.912171&mode=routes&rtext=59.914713%2C30.349703~59.909938%2C30.343024&rtt=mt&ruri=ymapsbm1%3A%2F%2Ftransit%2Fstop%3Fid%3Dstation__9805886~ymapsbm1%3A%2F%2Forg%3Foid%3D1071665634&utm_medium=mapframe&utm_source=maps&z=16.8" 
                 style="color:#eee;font-size:12px;position:absolute;top:14px;">
                 Яндекс Карты
             </a>
             <iframe 
-                src="https://yandex.ru/map-widget/v1/?ll=30.335743%2C59.920187&mode=routes&rtext=59.927125%2C30.320547~59.909938%2C30.343024&rtt=mt&ruri=ymapsbm1%3A%2F%2Ftransit%2Fstop%3Fid%3Dstation__9805907~ymapsbm1%3A%2F%2Forg%3Foid%3D1071665634&z=15.06" 
+                src="https://yandex.ru/map-widget/v1/?indoorLevel=1&ll=30.347349%2C59.912171&mode=routes&rtext=59.914713%2C30.349703~59.909938%2C30.343024&rtt=mt&ruri=ymapsbm1%3A%2F%2Ftransit%2Fstop%3Fid%3Dstation__9805886~ymapsbm1%3A%2F%2Forg%3Foid%3D1071665634&z=16.8"
                 width="100%" 
                 height="400" 
                 frameborder="1" 
@@ -93,6 +93,7 @@ with col2:
         </div>
                     """, height=440)
 st.divider()
+
 
 col3, col4 = st.columns([1, 2])
 with col4:
